@@ -126,4 +126,25 @@ iframe {
 }
 .three {
   background-color: #E5E7EB;
+  padding: 70px 250px ;
+}
+blockquote {
+  margin-bottom: 0;
+}
+p.left {
+  margin-left: auto;
+  margin-right: 10vh;
+  width: fit-content;
+  font-size: 26px;
+  margin-top: -1vh;
+}
+#card {
+  display: flex;
+  flex: 4;
+  align-items: center;
+}
+#card img {
+  width: 40%;
+  height: 20%;
+  flex: 1;
 }
